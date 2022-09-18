@@ -1,3 +1,5 @@
 test
 
-task1 - done
+function lineHasBeenDeleted(){
+
+}
